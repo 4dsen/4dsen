@@ -6,20 +6,20 @@
 
 -----
 
-### <p align="center"> Informations </p>
+### <p align="center"> INFORMATIONS </p>
 
 <br><br>
 <p align="center">
 <strong>
 Yo, im adsen a web developper & a graphic designer.
 <br><br>
-To contact me, add me on discord.
+Im also learning lua.
 </p>
 <br>
 
 -----
 
-### <p align="center"> Social Networks </p>
+### <p align="center"> SOCIAL NEWTORKS </p>
 
 
 <p align="center">
@@ -31,7 +31,7 @@ To contact me, add me on discord.
   
 -----
 
-### <p align="center"> Contact Me </p>
+### <p align="center"> CONTACT ME </p>
 
   <div align="center">
   <a href="https://discord.com/users/991440050321621032" target="_blank">
